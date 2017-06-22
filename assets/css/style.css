@@ -1,0 +1,134 @@
+body {
+    background: url(../images/greenpurple.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/*HEADER*/
+
+#nav-link {
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.3);
+    margin: 5px;
+    font-weight: bold;
+}
+
+#header-wrapper {
+    height: 100vh;
+    position: relative;
+}
+
+#header {
+    position: absolute;
+    bottom: 150px;
+    left: 10%;
+}
+
+#name {
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#title {
+    color: rgb(210, 250, 25);
+}
+
+h1.section-title {
+    color: rgb(255, 255, 255);
+    margin-top: 30px;
+    font-size: 45px;
+}
+
+
+/*WORK*/
+
+#work-wrapper-1 {
+    background-color: rgb(170, 170, 170);
+}
+
+#work-wrapper-2 {
+    background-color: rgb(200, 200, 200);
+}
+
+#work-section {
+    width: 90%;
+    margin: auto;
+}
+
+th {
+    padding-right: 15px;
+}
+
+.project-img {
+    width: 500px;
+    margin-bottom: 30px;
+}
+
+
+/*ABOUT*/
+
+#about-wrapper {
+    background-color: rgb(30, 30, 30);
+}
+
+#about-section {
+    width: 90%;
+    margin: auto;
+}
+
+#photo {
+    height: 200px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+#about-me {
+    color: rgb(211, 211, 211);
+}
+
+
+/*CONTACT*/
+
+#contact-wrapper {
+    background-color: rgb(220, 220, 220);
+}
+
+#contact-section {
+    width: 90%;
+    margin: auto;
+}
+
+
+/*SOCIAL*/
+
+#social-section {
+    width: 20%;
+    clear: both;
+    margin: 30px auto;
+}
+
+.social-btn {
+    display: inline;
+}
+
+.social-img {
+    width: 30%;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+/*FOOTER*/
+
+#footer {
+    color: rgb(255, 255, 255);
+    margin: 30px 0px 30px 30px;
+}
