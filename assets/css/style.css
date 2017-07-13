@@ -49,10 +49,14 @@ h1.section-title {
 /*WORK*/
 
 #work-wrapper-1 {
-    background-color: rgb(170, 170, 170);
+    background-color: rgb(200, 200, 200);
 }
 
 #work-wrapper-2 {
+    background-color: rgb(170, 170, 170);
+}
+
+#work-wrapper-3 {
     background-color: rgb(200, 200, 200);
 }
 
